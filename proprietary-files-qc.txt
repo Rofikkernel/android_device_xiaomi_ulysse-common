@@ -2158,6 +2158,7 @@ vendor/lib64/libsysmon_cdsp_skel.so|f3cb20891b795036134a659cd530287fe8c84369
 # Consumer IR
 vendor/lib64/hw/consumerir.default.so
 
+
 # DPM - from Daisy QKQ1.191002.002 V11.0.5.0.QDLMIXM
 framework/tcmclient.jar|6ef9ca98f67c144fc8ae941bb3a47f99cbd93098
 product/bin/dpmd|cac8f3eadeeec202f56d5b5f7a8c75e82e376d9f
@@ -2758,6 +2759,6 @@ vendor/lib64/libwfdhdcpcp.so|bd09a8de0a0dbb64ec04ae5fc4f8f3c387e7dd80
 
 
 #audio2 required
-vendor/lib//hw/audio.primary.msm8953.so
-
+lib/hw/audio.primary.msm8953.so
+vendor/lib/libmotaudioutils.so
 
